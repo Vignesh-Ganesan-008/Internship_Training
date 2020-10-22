@@ -1,5 +1,3 @@
-# Internship_Training
-
 # Recommended Videos to watch
 Cracking the Coding Interview at Silicon Valley Code Camp 2016: https://www.youtube.com/watch?v=lbLZiHvPIKE&feature=youtu.be
 
@@ -14,7 +12,7 @@ Problem Solving: https://www.hackerrank.com/domains/algorithms
 
 
 Please refer to the below links for learning:- 
-# YOUTUBE PLAYLISTS: 
+# Youtube playlists: 
 Data Structures: https://www.youtube.com/playlist?list=PLGFWoS5kaXE0C8R3rhJPO1BXt8tQfzZh6
 Java: https://www.youtube.com/playlist?list=PLGFWoS5kaXE1l817V-KizQFKgdr4KGGcy
 C Basic: https://www.youtube.com/playlist?list=PLGFWoS5kaXE0gEaPdA4kx7NjVf5lupMsS
