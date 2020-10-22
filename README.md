@@ -10,8 +10,6 @@ LeetCode: https://leetcode.com
 The HackerRank Interview Preparation Kit: https://www.hackerrank.com/interview/interview-preparation-kit  
 Problem Solving: https://www.hackerrank.com/domains/algorithms  
 
-
-Please refer to the below links for learning:- 
 ### Youtube Playlists: 
 Data Structures: https://www.youtube.com/playlist?list=PLGFWoS5kaXE0C8R3rhJPO1BXt8tQfzZh6  
 Java: https://www.youtube.com/playlist?list=PLGFWoS5kaXE1l817V-KizQFKgdr4KGGcy  
