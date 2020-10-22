@@ -1,4 +1,6 @@
-# Recommended Videos to watch
+# Internship Training
+
+### Recommended Videos to watch
 Cracking the Coding Interview at Silicon Valley Code Camp 2016: https://www.youtube.com/watch?v=lbLZiHvPIKE&feature=youtu.be  
 
 ### Platforms to pratice coding
